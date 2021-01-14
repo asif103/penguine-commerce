@@ -1,0 +1,42 @@
+#hero{
+    background-color: #FFFBF0;
+}
+#menubar{
+    background-color: #FFFBF0 !important;
+}
+
+.cart-btn{
+    background-color: #9CB53B;
+    border-color: #9CB53B;
+}
+.product-card img{
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.product-card{
+    border-radius: 20px;
+}
+.single-service{
+    border-radius: 10px;
+}
+.about{
+    text-align: justify;
+}
+.footer-menu{
+    list-style: none;
+}
+.footer-menu a{
+    text-decoration: none;
+    color: #9CB53B;
+}
+.footer-menu a:hover{
+    color: #fff;
+}
+.copyright p{
+    color: #9CB53B;
+    font-weight: 700;
+    font-size: 22px;
+}
+h1,h3{
+    font-family: 'Oswald', sans-serif;
+}
